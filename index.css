@@ -1,0 +1,114 @@
+
+    body {
+      font-family: Arial, sans-serif;
+     background-color: #fff;
+      color: #222;
+      display: flex;
+      justify-content: center;
+      padding: 40px;
+    }
+
+    .container {
+      width: 700px;
+      background-color: #fff;
+      
+      border-radius: 10px;
+      padding: 20px;
+    }
+    .corova{
+        display: flex;
+        justify-content: space-between;
+       
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+.sfdkds{
+    gap: 80px;
+}
+    .search {
+      display: flex;
+      gap: 5px;
+      margin-bottom: 15px;
+      width: 500px;
+    }
+
+    .search input {
+      flex:2 ;
+      padding: 6px ;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .search button {
+       background-color: #fff;
+      color: #fff;
+      border: none;
+      width: 18px;
+      height: 18px;
+      padding: 5px 18px;
+      border-radius: 5px;
+    cursor: url('631fbf676742313dd8dce48aaa3c9a9e6155c62d.png') , auto;
+      margin-left: -60px;
+    }
+
+    .filtr {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 15px;
+      gap: 30px;
+    }
+
+    .filtr select, .filtr button {
+      background-color: #7b61ff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      padding: 6px 10px;
+       cursor: url('631fbf676742313dd8dce48aaa3c9a9e6155c62d.png') , auto;
+    }
+
+    .capybara {
+      display: flex;
+      align-items: center;
+      width: 500px;
+      margin-left:50px ;
+      justify-content: center;
+      border-top: 1px solid #9b40be;
+      padding: 8px ;
+      cursor: url('631fbf676742313dd8dce48aaa3c9a9e6155c62d.png') , auto;
+    }
+
+    .capybara label {
+      flex: 1;
+      margin-left: 8px;
+    }
+
+    .capybara input[type="checkbox"] {
+      width: 18px;
+      height: 18px;
+    }
+
+    .done {
+      /* text-decoration: line-through; */
+      /* color: gray; */
+    }
+
+    .pig {
+      display: block;
+     
+      width: 40px;
+      height: 40px;
+      background-color: #7b61ff;
+      color: white;
+      border: none;
+      border-radius: 50%;
+      font-size: 24px;
+      margin: 20px auto 0;
+       cursor: url('631fbf676742313dd8dce48aaa3c9a9e6155c62d.png') , auto;
+      margin-right: 0px;
+     
+    }
+  
